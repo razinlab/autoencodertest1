@@ -1,0 +1,8 @@
+scikit-learn~=1.6.1
+numpy~=2.2.2
+xgboost~=2.1.4
+pandas~=2.2.3
+pydantic~=2.10.6
+fastapi[standard]~=0.115.8
+uvicorn
+dill~=0.3.9
